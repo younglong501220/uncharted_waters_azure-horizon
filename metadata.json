@@ -1,0 +1,6 @@
+{
+  "name": "大航海時代：蔚藍航路 (Uncharted Waters: Azure Horizon)",
+  "description": "致敬經典大航海時代精神的冒險與貿易航海 RPG：交易所跨洋經商、酒館招募與情報、造船廠升級換裝、遠洋航行與海盜戰術砲戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
